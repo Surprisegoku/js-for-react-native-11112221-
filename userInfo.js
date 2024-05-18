@@ -29,7 +29,7 @@ function createUserProfiles(names, modifiedNames) {
 }
 
 // Example :
-const names = ["Goku", "Surprise", "Elorm", "James", "Mohammed"];
+const names = ["Goku", "Surprise", "Elorm", "Faisal", "Mohammed"];
 const numbers = processArray([1, 2, 3, 4, 5]);
 const modifiedNames = formatArrayStrings(names, numbers);
 const userProfiles = createUserProfiles(names, modifiedNames);
