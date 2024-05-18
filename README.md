@@ -1,4 +1,6 @@
 STUDENT ID:11112221
+
+
 In Task 1, I created a function 'processArray' that squares even numbers and triples odd numbers 
 by using the "map" method to create a new array by applying a function to each element of the input array.
 
